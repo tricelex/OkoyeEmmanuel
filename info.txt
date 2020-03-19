@@ -1,0 +1,5 @@
+FullNane: Okoye Emmanuel
+EMail: tricelex@gmail.com
+Slack: Okoye Emmanuel
+Tracks: Backend
+Courses: Python
